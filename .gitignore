@@ -1,0 +1,11 @@
+connect2/users.json
+connect2/sessions/
+Waits/user_alerts.json
+Waits/show_alerts.json
+Waits/locks/
+chat/
+analytics/
+API/*.json
+brand.json
+uploads/
+*.log
